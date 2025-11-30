@@ -37,6 +37,7 @@ name (string)
 
 price (float)
 
+
 Create an array menu[] and initialize it with some fixed food items.
 
 Display a welcome message and show the menu in table form.
