@@ -1,9 +1,9 @@
 # online-food-order
 Idea / Description
 
-This is a console-based food ordering system where:
+This is a food ordering system where:
 
-A fixed menu of items is displayed (Pizza, Burger, Momos, etc.)
+A fixed menu of items is displayed (rolls , briyani, fries, etc.)
 
 User can:
 
